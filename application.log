@@ -1,0 +1,31 @@
+2026-11-13 21:44:53,867 - INFO - Application interrupted.
+2026-11-13 21:45:26,514 - DEBUG - Menu operation completed
+2026-11-13 21:45:49,130 - INFO - Product added: G101
+2026-11-13 21:45:49,131 - DEBUG - Menu operation completed
+2026-11-13 21:45:52,377 - DEBUG - Menu operation completed
+2026-11-13 21:46:28,471 - INFO - Product added: E100
+2026-11-13 21:46:28,471 - DEBUG - Menu operation completed
+2026-11-13 21:46:50,208 - INFO - Product added: C100
+2026-11-13 21:46:50,208 - DEBUG - Menu operation completed
+2026-11-13 21:46:53,196 - DEBUG - Menu operation completed
+2026-11-13 21:47:14,671 - WARNING - Product not found
+2026-11-13 21:47:20,657 - DEBUG - Menu operation completed
+2026-11-13 21:47:51,251 - INFO - Product updated: G101
+2026-11-13 21:47:51,251 - DEBUG - Menu operation completed
+2026-11-13 21:47:55,718 - DEBUG - Menu operation completed
+2026-11-13 21:48:56,902 - INFO - Stock updated: G101
+2026-11-13 21:48:56,903 - INFO - Stock updated: C100
+2026-11-13 21:48:56,905 - INFO - Order completed: ORD1
+2026-11-13 21:48:56,905 - DEBUG - Menu operation completed
+2026-11-13 21:49:19,209 - DEBUG - Menu operation completed
+2026-11-13 21:49:35,202 - DEBUG - Menu operation completed
+2026-11-13 21:49:57,022 - INFO - Product removed: C100
+2026-11-13 21:49:57,022 - DEBUG - Menu operation completed
+2026-11-13 21:50:00,737 - DEBUG - Menu operation completed
+2026-11-13 21:51:46,262 - WARNING - Product not found
+2026-11-13 21:52:28,960 - INFO - Product added: 100
+2026-11-13 21:52:28,960 - DEBUG - Menu operation completed
+2026-11-13 21:52:43,141 - WARNING - Order rejected due to insufficient stock
+2026-11-13 21:53:30,259 - DEBUG - Menu operation completed
+2026-11-13 22:10:16,322 - WARNING - Invalid menu choice: C:\Users\Vismaya\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/Users/Vismaya/OneDrive/Desktop/Inventory_Order/main.py
+2026-11-13 22:10:16,323 - DEBUG - Menu operation completed
